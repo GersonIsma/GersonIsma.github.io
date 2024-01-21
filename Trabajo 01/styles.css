@@ -1,0 +1,34 @@
+:root{
+    --background-color: #F3ECEC;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+header{
+    text-align: center;
+    color:rgb(10, 23, 114);
+}
+h2{
+    color: rgb(65, 65, 158);
+}
+.insta{
+    width: 40px;
+    height: 40px;
+}
+.divyo{
+    text-align: center;
+}
+.yo{
+    width: 15%;
+    height: 15%;
+    border-radius: 1px solid;
+}
+.datees{
+    font-size:small;
+}
+section{
+    border: 1px solid;
+}
+.expe{
+    background: var(--background-color);
+}
