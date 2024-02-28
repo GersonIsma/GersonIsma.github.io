@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tareareact/static/css/main.06c7da23.css",
+    "main.js": "/tareareact/static/js/main.4da6d27e.js",
+    "index.html": "/tareareact/index.html",
+    "main.06c7da23.css.map": "/tareareact/static/css/main.06c7da23.css.map",
+    "main.4da6d27e.js.map": "/tareareact/static/js/main.4da6d27e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c7da23.css",
+    "static/js/main.4da6d27e.js"
+  ]
+}
